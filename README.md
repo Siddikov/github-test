@@ -4,11 +4,11 @@ GCP Tutorial `https://learning.oreilly.com/videos/building-ai-applications/97801
 
 Contents
 
-Lesson 1 – Shell tutorial
+Lesson 1 – Shell tutorial  
 Lesson 2 - Building ETL Pipelines, Extract Transform Load
 
-  ..*	ETL Overview
-  •	Data Flow Demo
+  •	ETL Overview  
+  •	Data Flow Demo  
   •	Cloud Functions - serverless movement of data	
   •	Google App Engine (GAE) CRON Jobs
       `https://introduction-ai-291400.uc.r.appspot.com/`
