@@ -7,8 +7,7 @@ GCP Tutorial `https://learning.oreilly.com/videos/building-ai-applications/97801
   •	ETL Overview  
   •	Data Flow Demo  
   •	Cloud Functions - serverless movement of data  
-  •	Google App Engine (GAE) CRON Jobs  
-      `https://introduction-ai-291400.uc.r.appspot.com/`  
+  •	Google App Engine (GAE) CRON Jobs `https://introduction-ai-291400.uc.r.appspot.com/`  
 #### Lesson 3 – Use ML prediction on BigQuery  
   •	Introduction to Big Theory  
   •	Create supervised ML predictions with BigQuery  
