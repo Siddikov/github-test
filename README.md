@@ -7,7 +7,7 @@ Contents
 Lesson 1 – Shell tutorial
 Lesson 2 - Building ETL Pipelines, Extract Transform Load
 
-  ..•	ETL Overview
+  ..*	ETL Overview
   •	Data Flow Demo
   •	Cloud Functions - serverless movement of data	
   •	Google App Engine (GAE) CRON Jobs
