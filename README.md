@@ -1,9 +1,9 @@
 # MSDS 498 Individual Project 
 
-GCP Tutorial `https://learning.oreilly.com/videos/building-ai-applications/9780135973462`  
- 
+GCP Tutorial: https://learning.oreilly.com/videos/building-ai-applications/9780135973462  
+GCP App Engine: https://introduction-ai-291400.uc.r.appspot.com     
+
 #### Lesson 1 – Shell tutorial  
-  •	gcloud app deploy: https://introduction-ai-291400.uc.r.appspot.com     
 #### Lesson 2 - Building ETL Pipelines, Extract Transform Load  
   •	ETL Overview  
   •	Data Flow Demo  
