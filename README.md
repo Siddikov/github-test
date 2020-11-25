@@ -3,11 +3,12 @@
 GCP Tutorial `https://learning.oreilly.com/videos/building-ai-applications/9780135973462`  
  
 #### Lesson 1 – Shell tutorial  
+  •	gcloud app deploy: https://introduction-ai-291400.uc.r.appspot.com     
 #### Lesson 2 - Building ETL Pipelines, Extract Transform Load  
   •	ETL Overview  
   •	Data Flow Demo  
   •	Cloud Functions - serverless movement of data  
-  •	Google App Engine (GAE) CRON Jobs `https://introduction-ai-291400.uc.r.appspot.com/`  
+  •	Google App Engine (GAE) CRON Jobs
 #### Lesson 3 – Use ML prediction on BigQuery  
   •	Introduction to Big Theory  
   •	Create supervised ML predictions with BigQuery  
