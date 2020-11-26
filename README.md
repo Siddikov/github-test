@@ -1,6 +1,13 @@
 # MSDS 498 Individual Project 
 
-GCP App Engine: https://introduction-ai-291400.uc.r.appspot.com     
+GCP App Engine: 
+https://introduction-ai-291400.uc.r.appspot.com  
+https://introduction-ai-291400.uc.r.appspot.com/wiki/seattle
+https://introduction-ai-291400.uc.r.appspot.com/name/seattle
+https://introduction-ai-291400.uc.r.appspot.com/pandas
+https://introduction-ai-291400.uc.r.appspot.com/html
+
+
 GCP Tutorial Video: https://learning.oreilly.com/videos/building-ai-applications/9780135973462  
 GCP Tutorial Document: https://github.com/Siddikov/github-test/blob/main/GCP_Siddikov.pdf  
 
