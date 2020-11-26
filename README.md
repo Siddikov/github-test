@@ -1,11 +1,14 @@
 # MSDS 498 Individual Project 
 
 GCP App Engine: 
+https://msds498-flask-dash.an.r.appspot.com/  
+
+GCP App Engine and Flask:  
 https://introduction-ai-291400.uc.r.appspot.com  
-https://introduction-ai-291400.uc.r.appspot.com/wiki/seattle
-https://introduction-ai-291400.uc.r.appspot.com/name/seattle
-https://introduction-ai-291400.uc.r.appspot.com/pandas
-https://introduction-ai-291400.uc.r.appspot.com/html
+https://introduction-ai-291400.uc.r.appspot.com/wiki/seattle  
+https://introduction-ai-291400.uc.r.appspot.com/name/seattle  
+https://introduction-ai-291400.uc.r.appspot.com/pandas  
+https://introduction-ai-291400.uc.r.appspot.com/html  
 
 
 GCP Tutorial Video: https://learning.oreilly.com/videos/building-ai-applications/9780135973462  
